@@ -8,7 +8,9 @@ const Map = ({ center, zoom }) => {
         bootstrapURLKeys={{ key: "AIzaSyCcCmZ4SUwUZgEu_yMZ3v7irFvmHzn-ym4" }}
         defaultCenter={center}
         defaultZoom={zoom}
-      ></GoogleMapReact>
+      >
+        <LocationMarker lat={center.lat} lng={center.lng} />
+      </GoogleMapReact>
     </div>
   );
 };
