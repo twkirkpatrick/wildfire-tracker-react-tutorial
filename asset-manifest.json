@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wildfire-tracker-react-tutorial/static/css/main.eb5ade12.chunk.css",
+    "main.js": "/wildfire-tracker-react-tutorial/static/js/main.fb8764d1.chunk.js",
+    "main.js.map": "/wildfire-tracker-react-tutorial/static/js/main.fb8764d1.chunk.js.map",
+    "runtime-main.js": "/wildfire-tracker-react-tutorial/static/js/runtime-main.e88d74e4.js",
+    "runtime-main.js.map": "/wildfire-tracker-react-tutorial/static/js/runtime-main.e88d74e4.js.map",
+    "static/js/2.dd1c252d.chunk.js": "/wildfire-tracker-react-tutorial/static/js/2.dd1c252d.chunk.js",
+    "static/js/2.dd1c252d.chunk.js.map": "/wildfire-tracker-react-tutorial/static/js/2.dd1c252d.chunk.js.map",
+    "static/js/3.327aaa7a.chunk.js": "/wildfire-tracker-react-tutorial/static/js/3.327aaa7a.chunk.js",
+    "static/js/3.327aaa7a.chunk.js.map": "/wildfire-tracker-react-tutorial/static/js/3.327aaa7a.chunk.js.map",
+    "index.html": "/wildfire-tracker-react-tutorial/index.html",
+    "static/css/main.eb5ade12.chunk.css.map": "/wildfire-tracker-react-tutorial/static/css/main.eb5ade12.chunk.css.map",
+    "static/js/2.dd1c252d.chunk.js.LICENSE.txt": "/wildfire-tracker-react-tutorial/static/js/2.dd1c252d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e88d74e4.js",
+    "static/js/2.dd1c252d.chunk.js",
+    "static/css/main.eb5ade12.chunk.css",
+    "static/js/main.fb8764d1.chunk.js"
+  ]
+}
